@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Topic Summaries and Readings
 uid: fe962e78-5aaa-abe9-860a-d41783dc46eb
 ---
