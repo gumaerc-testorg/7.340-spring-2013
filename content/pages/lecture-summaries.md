@@ -60,11 +60,11 @@ Fixer Uppers: Parasite-Mediated Remodeling of the Host Cell and its Disease Impl
 {{< tdopen >}}
 {{< anchor "2" >}}{{< /anchor >}}
 
-Peixoto, L., F. Chen, et al. "[Integrative Genomic Approaches Highlight a Family of Parasite-specific Kinases that Regulate Host Responses](http://dx.doi.org//10.1016/j.chom.2010.07.004)." _Cell Host Microbe_ 8, no. 2 (2010): 208–18.
+Peixoto, L., F. Chen, et al. "{{% resource_link "dba88ac1-ffc4-447a-a693-bf05dff69260" "Integrative Genomic Approaches Highlight a Family of Parasite-specific Kinases that Regulate Host Responses" %}}." _Cell Host Microbe_ 8, no. 2 (2010): 208–18.
 
 _This paper describes a phylogenomic approach to characterize the kinome of_ Toxoplasma gondii_, a protozoan parasite. This paper includes methods of identification and characterization of new virulence factors and how to use microarray technology to measure the expression levels of large numbers of genes simultaneously as a way to examine the effects of parasite gene expression on the host cell._
 
-Ong, Y. C., M. L. Reese, et al. "[_Toxoplasma_ Rhoptry Protein 16 (ROP16) Subverts Host Function by Direct Tyrosine Phosphorylation of STAT6](http://dx.doi.org//10.1074/jbc.M110.112359)." _The Journal of Biological Chemistry_ 285, no. 37 (2010): 28731–40.
+Ong, Y. C., M. L. Reese, et al. "{{% resource_link "b6f04e07-f6e4-46b5-afec-f2187451bcc3" "_Toxoplasma_ Rhoptry Protein 16 (ROP16) Subverts Host Function by Direct Tyrosine Phosphorylation of STAT6" %}}." _The Journal of Biological Chemistry_ 285, no. 37 (2010): 28731–40.
 
 _This work exemplifies the generation of parasite knockout strains to define the molecular function of specific genes. We will discuss approaches to the biochemical characterization of a parasite kinase and identification of its host cell targets as well as the role of host STAT6, a transcription factor, in infection._
 
@@ -82,11 +82,11 @@ Fixer Uppers: Parasite-Mediated Remodeling of the Host Cell and its Disease Impl
 {{< tdopen >}}
 {{< anchor "3" >}}{{< /anchor >}}
 
-Cyrklaff, M., C. P. Sanchez, et al. "[Hemoglobins S and C Interfere with Actin Remodeling in _Plasmodium falciparum_—infected Erythrocytes](http://dx.doi.org//10.1126/science.1213775)." _Science_ 334, no. 6060 (2011): 1283–6.
+Cyrklaff, M., C. P. Sanchez, et al. "{{% resource_link "1fa30001-4b8e-4990-923e-6d45d023f51a" "Hemoglobins S and C Interfere with Actin Remodeling in _Plasmodium falciparum_—infected Erythrocytes" %}}." _Science_ 334, no. 6060 (2011): 1283–6.
 
 _This paper reports a cell biological mechanism for the basis of host resistance to infection by_ Plasmodium falciparum _(the disease-causing agent of malaria) in patients who display the sickle-cell hemoglobin trait._
 
-Grüring, C., A. Heiber, et al. "[Uncovering Common Principles in Protein Export of Malaria Parasites](http://dx.doi.org//10.1016/j.chom.2012.09.010)." _Cell Host and Microbe_ 12, no. 5 (2012): 717–29.
+Grüring, C., A. Heiber, et al. "{{% resource_link "b6bfe63d-6f04-4d27-afa0-34f64645914e" "Uncovering Common Principles in Protein Export of Malaria Parasites" %}}." _Cell Host and Microbe_ 12, no. 5 (2012): 717–29.
 
 _Protein export from the_ Plasmodium _parasite into the host cytoplasm is necessary for the acute stage of infection and the worst symptoms of malaria. The authors discover a newlayer of regulation of protein export that unifies what were thought to be divergent export pathways. This newly discovered protein export step is sufficient to distinguish exported from non-exported proteins. Thus, this work facilitates identification of novel exported proteins and identifies new targets for drug design._
 
@@ -110,11 +110,11 @@ Invasion of the Host Cell I
 {{< tdopen >}}
 {{< anchor "4" >}}{{< /anchor >}}
 
-Alexander, D. L., J. Mital., et al. "[Identification of the Moving Junction Complex of _Toxoplasma gondii_: A Collaboration between Distinct Secretory Organelles](http://www.ncbi.nlm.nih.gov/pubmed/16244709)." _PLoS Pathogens_ 1, no. 2 (2005): e17.
+Alexander, D. L., J. Mital., et al. "{{% resource_link "5800c554-59a3-4ae2-b49b-816ee1493219" "Identification of the Moving Junction Complex of _Toxoplasma gondii_: A Collaboration between Distinct Secretory Organelles" %}}." _PLoS Pathogens_ 1, no. 2 (2005): e17.
 
 _This work demonstrates pathogen-driven invasion of the host cell through the orchestrated secretion of proteins from specialized secretory organelles, rhoptries and micronemes. Rhoptry and micronemal proteins promote contact between parasite and host plasma membranes in the form of a ring-shaped moving junction that begins at the anterior end of the parasite and then migrates posteriorly._
 
-Straub, K. W., E. D. Peng, et al. "[The Moving Junction Protein RON8 Facilitates Firm Attachment and Host Cell Invasion in _Toxoplasma gondii_](http://dx.doi.org//10.1371/journal.ppat.1002007)." _PLoS Pathogens_ 7, no. 3 (2011): e1002007.
+Straub, K. W., E. D. Peng, et al. "{{% resource_link "61d83012-e56a-471d-adec-6a2812b38d36" "The Moving Junction Protein RON8 Facilitates Firm Attachment and Host Cell Invasion in _Toxoplasma gondii_" %}}." _PLoS Pathogens_ 7, no. 3 (2011): e1002007.
 
 _Another example of pathogen-driven invasion of the host cell. This paper shows the importance of targetting of proteins to their subcellular localizations. How invasion of the host cell translates into virulence in the mouse model will be discussed._
 
@@ -132,11 +132,11 @@ Invasion of the Host Cell II
 {{< tdopen >}}
 {{< anchor "5" >}}{{< /anchor >}}
 
-Fernandes, M. C., M. Cortez, et al. "[_Trypanosoma cruzi_ Subverts the Sphingomyelinase-mediated Plasma Membrane Repair Pathway for Cell Invasion](http://dx.doi.org//10.1084/jem.20102518)." _Journal of Experimental Medicine_ 208, no. 5 (2011): 909–21.
+Fernandes, M. C., M. Cortez, et al. "{{% resource_link "e1230acd-b256-4131-bc58-dd8607bedda2" "_Trypanosoma cruzi_ Subverts the Sphingomyelinase-mediated Plasma Membrane Repair Pathway for Cell Invasion" %}}." _Journal of Experimental Medicine_ 208, no. 5 (2011): 909–21.
 
 Trypanosoma cruzi _is the protozoan pathogen that causes Chagas disease, which can develop over many years into a potentially life-threatening chronic illness affecting the digestive system and heart. This report describes how T. cruzi is able to mimic a form of membrane damage to the extracellular surface of the host cell, thereby gaining entry by co-opting the host membrane repair machinery._
 
-Calderón, J., E. Maganto-Garcia, et al. "[The Receptor Slamf1 on the Surface of Myeloid Lineage Cells Controls Susceptibility to Infection by _Trypanosoma cruzi_](http://dx.doi.org//10.1371/journal.ppat.1002799)." _PLoS Pathogens_ 8, no. 7 (2012): e1002799.
+Calderón, J., E. Maganto-Garcia, et al. "{{% resource_link "991ad59f-abbb-44e1-bcb6-ea86d5c4e7bc" "The Receptor Slamf1 on the Surface of Myeloid Lineage Cells Controls Susceptibility to Infection by _Trypanosoma cruzi_" %}}." _PLoS Pathogens_ 8, no. 7 (2012): e1002799.
 
 _This work reports the discovery of a molecular basis for_ T. cruzi's _ability to infect myocardial (heart) tissue. The authors identify Slamf1, which is a host cell surface marker found in myocardial tissue, as a determining factor of infection of these tissues, thus providing a potential drug target to treat the chronic phase of Chagas disease._
 
@@ -154,11 +154,11 @@ Invasion of the Host Cell III
 {{< tdopen >}}
 {{< anchor "6" >}}{{< /anchor >}}
 
-Nikitas, G., C. Deschamps, et al. "[Transcytosis of _Listeria monocytogenes_ Across the Intestinal Barrier upon Specific Targeting of Goblet Cell Accessible E-cadherin](http://dx.doi.org//10.1084/jem.20110560)." _Journal of Experimental Medicine_ 208, no. 11 (2011): 2263–77.
+Nikitas, G., C. Deschamps, et al. "{{% resource_link "c1d76001-e2c6-4699-b533-f3f842fccb97" "Transcytosis of _Listeria monocytogenes_ Across the Intestinal Barrier upon Specific Targeting of Goblet Cell Accessible E-cadherin" %}}." _Journal of Experimental Medicine_ 208, no. 11 (2011): 2263–77.
 
 _Listeria is a gram-positive food-borne bacterium. This paper sheds light on the interaction between InlA (a bacterial irulence factor) and E-cadherin, a host cell surface protein. The interaction between InlA and E-cadherin is crucial for Listeria oral infectivity. This report demonstrates the interaction of pathogen surface proteins with host cell receptors to promote translocation across the intestinal epithelium and cause systemic infection. Also, it shows the importance of choosing the right target cells for infection._
 
-Bou Ghanem, E. N., G. S. Jones, et al. "[InlA Promotes Dissemination of _Listeria monocytogenes_ to the Mesenteric Lymph Nodes during Food Borne Infection of Mice](http://www.plospathogens.org/article/info%3Adoi%2F10.1371%2Fjournal.ppat.1003015)." _PLoS Pathogens_ 8, no. 11 (2012): e1003015.
+Bou Ghanem, E. N., G. S. Jones, et al. "{{% resource_link "320a58c3-d948-4031-9309-fba3b25ac483" "InlA Promotes Dissemination of _Listeria monocytogenes_ to the Mesenteric Lymph Nodes during Food Borne Infection of Mice" %}}." _PLoS Pathogens_ 8, no. 11 (2012): e1003015.
 
 _This paper describes a new role for InlA in facilitating systemic spread via the lymphatic system after invasion of the gut mucosa. We will discuss the importance of appropriate animal models and routes of inoculation to study infection._
 
@@ -182,11 +182,11 @@ Determinants of Pathogen Proliferation within the Host Cell I
 {{< tdopen >}}
 {{< anchor "7" >}}{{< /anchor >}}
 
-Jaramillo, M., M. A. Gomez, et al. "[_Leishmania_ Repression of Host Translation Through mTOR Cleavage is Required for Parasite Survival and Infection](http://dx.doi.org//10.1016/j.chom.2011.03.008)." _Cell Host Microbe_ 9, no. 4 (2011): 331–41.
+Jaramillo, M., M. A. Gomez, et al. "{{% resource_link "3c8b61b9-5a04-447f-968b-760565902c0c" "_Leishmania_ Repression of Host Translation Through mTOR Cleavage is Required for Parasite Survival and Infection" %}}." _Cell Host Microbe_ 9, no. 4 (2011): 331–41.
 
 _Leishmaniasis is a disease caused by several species of the genus Leishmania, which are protists (single cell eukaryotes). Leishmaniasis is largely confined to the skin and produces skin lesions, but can rarely affect vital organs and be fatal to the patient. This report presents a molecular basis for how_ Leishmania _disrupts host protein synthesis by disabling the pro-growth mTORC1 kinase complex, which enables intracellular proliferation._
 
-Wilson, J., C. Huynh, et al. "[Control of Parasitophorous Vacuole Expansion by LYST/Beige Restricts the Intracellular Growth of _Leishmania amazonensis_](http://dx.doi.org//10.1371/journal.ppat.1000179)." _PLoS Pathogens_ 4, no. 10 (2008): e1000179.
+Wilson, J., C. Huynh, et al. "{{% resource_link "5b2c8dd8-e24e-4e5f-950b-f6f232ae18fb" "Control of Parasitophorous Vacuole Expansion by LYST/Beige Restricts the Intracellular Growth of _Leishmania amazonensis_" %}}." _PLoS Pathogens_ 4, no. 10 (2008): e1000179.
 
 _Inside the host cell,_ Leishmania _resides within a vacuole it forms called the parasitophorous vacuole. This paper characterizes the effect of a host protein on parasitophorous vacuole size in_ Leishmania _and its concordant effect on growth. This work provides insight into the relationship between vacuole size and growth._
 
@@ -204,11 +204,11 @@ Determinants of Pathogen Proliferation within the Host Cell II
 {{< tdopen >}}
 {{< anchor "8" >}}{{< /anchor >}}
 
-Checroun, C., T. D. Wehrly, et al. "[Autophagy-mediated Reentry of _Francisella tularensis_ into the Endocytic Compartment after Cytoplasmic Replication](http://www.ncbi.nlm.nih.gov/pubmed/16983090)." _Proceedings of National Academy of Sciences of the United States of America_ 103, no. 39 (2006): 14578–83.
+Checroun, C., T. D. Wehrly, et al. "{{% resource_link "d08bebff-3a4a-4a8f-a4fd-40dee43faeb7" "Autophagy-mediated Reentry of _Francisella tularensis_ into the Endocytic Compartment after Cytoplasmic Replication" %}}." _Proceedings of National Academy of Sciences of the United States of America_ 103, no. 39 (2006): 14578–83.
 
 _This work studies the interaction between an intracellular bacterium,_ Francisella_, and the endocytic pathway and demonstrates how bacterial pathogens cycle through different host cell compartments during their intracellular cycles._
 
-Chong, A., T. D. Wehrly, et al. "[Cytosolic Clearance of Replication-deficient Mutants Reveals _Francisella tularensis_ Interactions with the Autophagic Pathway](http://dx.doi.org//10.4161/auto.20808)." _Autophagy_ 8, no. 9 (2012): 1342–56.
+Chong, A., T. D. Wehrly, et al. "{{% resource_link "5f3d42e3-a1e2-41fc-b91f-32f8040448fa" "Cytosolic Clearance of Replication-deficient Mutants Reveals _Francisella tularensis_ Interactions with the Autophagic Pathway" %}}." _Autophagy_ 8, no. 9 (2012): 1342–56.
 
 _Life-death balance in the cytosol of the host cell can be mediated by autophagy, a process that involves cell degradation of unnecessary or dysfunctional cellular components. The authors describe the capture of replication-deficient_ Francisella _strains and show how replication-competent bacteria interfere with autophagic recognition, therefore ensuring survival and proliferation._
 
@@ -226,11 +226,11 @@ Determinants of Pathogen Proliferation within the Host Cell III
 {{< tdopen >}}
 {{< anchor "9" >}}{{< /anchor >}}
 
-Nguitragool, W., A. A. Bokhari, et al. "[Malaria Parasite Clag3 Genes Determine Channel-Mediated Nutrient Uptake by Infected Red Blood Cells](http://dx.doi.org//10.1016/j.cell.2011.05.002)." _Cell_ 145, no. 5 (2011): 665–77.
+Nguitragool, W., A. A. Bokhari, et al. "{{% resource_link "ff2c0093-d499-4a1f-b125-9c1241afa8af" "Malaria Parasite Clag3 Genes Determine Channel-Mediated Nutrient Uptake by Infected Red Blood Cells" %}}." _Cell_ 145, no. 5 (2011): 665–77.
 
 _The authors present a mechanistic explanation of how Plasmodium alters the membrane permeability of the host erythrocyte to access certain nutrients. Nutrient acquisition by the parasite is an important target for anti-malarial drug research._
 
-Zhao, H., A. Konishi, et al. "[Lipocalin 2 Bolsters Innate and Adaptive Immune Responses to Blood-stage Malaria Infection by Reinforcing Host Iron Metabolism](http://dx.doi.org//10.1016/j.chom.2012.10.010)." _Cell and Host Microbe_ 12, no. 5 (2012): 705–16.
+Zhao, H., A. Konishi, et al. "{{% resource_link "e2634bfe-57fd-49d6-99cd-38e94f752bbe" "Lipocalin 2 Bolsters Innate and Adaptive Immune Responses to Blood-stage Malaria Infection by Reinforcing Host Iron Metabolism" %}}." _Cell and Host Microbe_ 12, no. 5 (2012): 705–16.
 
 _Lipocalin 2 is an innate immune factor secreted by a neutrophil (a type of white blood cell) upon encountering an infected cell. This report describes a central role of Lipocalin 2 in the host’s fight against Plasmodium infection by regulating cellular iron homeostasis._
 
@@ -266,11 +266,11 @@ Both Sides of the Battle: Innate Immunity versus Virulence Factors I
 {{< tdopen >}}
 {{< anchor "11" >}}{{< /anchor >}}
 
-Yoshikawa, Y., M. Ogawa, et al. "[_Listeria monocytogenes_ ActA-mediated Escape from Autophagic Recognition](http://dx.doi.org//10.1038/ncb1967)." _Nature Cell Biology_ 11, no. 10 (2009): 1233–40.
+Yoshikawa, Y., M. Ogawa, et al. "{{% resource_link "8eefcce1-be1f-4493-bc93-b0508ab4f0a2" "_Listeria monocytogenes_ ActA-mediated Escape from Autophagic Recognition" %}}." _Nature Cell Biology_ 11, no. 10 (2009): 1233–40.
 
 _A wolf in sheep's skin—_Listeria _avoids autophagic recognition by exploiting the ability of its surface virulence factor, ActA, to recruit host cell cytoskeletal proteins, disguising itself as a host cell organelle._
 
-Ribet, D., M. Hamon, et al. "[_Listeria monocytogenes_ Impairs SUMOylation for Efficient Infection](http://dx.doi.org//10.1038/nature08963)." _Nature_ 464, no. 7292 (2010): 1192–5.
+Ribet, D., M. Hamon, et al. "{{% resource_link "f1b263fb-58ce-4228-9870-fe44e32e5029" "_Listeria monocytogenes_ Impairs SUMOylation for Efficient Infection" %}}." _Nature_ 464, no. 7292 (2010): 1192–5.
 
 _This work exemplifies how to take advantage of the comparison of phenotypes between pathogenic and non-pathogenic strains of the same bacterial species to investigate the effects of infection on the host cell. This paper describe how bacterial targeting of the SUMO pathway, an ubiquitin-like pathway that regulates a wide range of cellular events, can be used to modify simultaneously the activities of many different proteins of the host cell._
 
@@ -288,11 +288,11 @@ Both Sides of the Battle: Innate Immunity versus Virulence Factors II
 {{< tdopen >}}
 {{< anchor "12" >}}{{< /anchor >}}
 
-Vanhollebeke, B., G. De Muylder, et al. "[A Haptoglobin-Hemoglobin Receptor Conveys Innate Immunity to _Trypanosoma brucei_ in Humans](http://dx.doi.org//10.1126/science.1156296)." _Science_ 320, no. 5876 (2008): 677–81.
+Vanhollebeke, B., G. De Muylder, et al. "{{% resource_link "7416a648-1724-4b07-ba9e-a7ad5aa5e003" "A Haptoglobin-Hemoglobin Receptor Conveys Innate Immunity to _Trypanosoma brucei_ in Humans" %}}." _Science_ 320, no. 5876 (2008): 677–81.
 
 _This paper unravels the mechanism through which host HDL-lipoprotein (a form of cholesterol) is internalized by the parasite. This process is required for parasite survival in mice but has the opposite effect in humans, in whom it leads to parasite destruction through internalization of a toxic component of human HDL._
 
-Jones, J. W., N. Kayagaki, et al. "[Absent in Melanoma 2 is Required for Innate Immune Recognition of _Francisella tularensis_](http://www.pnas.org/content/107/21/9771.short)." _Proceedings of National Academy of Sciences of the United States of America_ 107, no. 21 (2010): 9771–6.
+Jones, J. W., N. Kayagaki, et al. "{{% resource_link "cb4c2526-1a33-4dce-832b-c8e6ff5d89d5" "Absent in Melanoma 2 is Required for Innate Immune Recognition of _Francisella tularensis_" %}}." _Proceedings of National Academy of Sciences of the United States of America_ 107, no. 21 (2010): 9771–6.
 
 _This paper discusses the role of the inflammasome, a component of the innate immune system responsible for activation of inflammatory processes, in infection. This study identifies AIM2, a DNA-sensing inflammasome component, as a crucial sensor of_ Francisella _infection and provides genetic proof of the critical role of AIM2 in host innate immunity to intracellular pathogens._
 
@@ -316,11 +316,11 @@ Virus Meets Parasite: How Viruses and Parasites Interact, Affecting Host Fitness
 {{< tdopen >}}
 {{< anchor "13" >}}{{< /anchor >}}
 
-Ives, A., C. Ronet, et al. "[_Leishmania_ RNA Virus Controls the Severity of Mucocutaneous Leishmaniasis](http://dx.doi.org//10.1126/science.1199326)." _Science_ 331, no. 6018 (2011): 775–8.
+Ives, A., C. Ronet, et al. "{{% resource_link "8838b5b4-75f1-478a-bfb1-57de4ccaf5df" "_Leishmania_ RNA Virus Controls the Severity of Mucocutaneous Leishmaniasis" %}}." _Science_ 331, no. 6018 (2011): 775–8.
 
 _This report describes how a virus that infects_ Leishmania _itself causes a more severe disease outcome in the host by affecting the host’s immediate, partially specific immune response to infection._
 
-Mock, D. J., J. A. Hollenbaugh, et al. "[_Leishmania_ Induces Survival, Proliferation and Elevated Cellular dNTP Levels in Human Monocytes Promoting Acceleration of HIV Co-infection](http://dx.doi.org//10.1371/journal.ppat.1002635)." _PLoS Pathog_ens 8, no. 4 (2012).
+Mock, D. J., J. A. Hollenbaugh, et al. "{{% resource_link "d1fe0ed5-a84e-469a-8b4f-2678d70d14c5" "_Leishmania_ Induces Survival, Proliferation and Elevated Cellular dNTP Levels in Human Monocytes Promoting Acceleration of HIV Co-infection" %}}." _PLoS Pathog_ens 8, no. 4 (2012).
 
 _The authors characterize molecular processes induced by_ Leishmania _that increase virulence of HIV in co-infected individuals._
 
